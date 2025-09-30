@@ -1,10 +1,10 @@
-package com.kuri.planwith;
+package com.kuri.starter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PlanwithApplicationTests {
+class PlanwithStarterApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.kuri.planwith;
+package com.kuri.starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PlanwithApplication {
+public class PlanwithStarterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PlanwithApplication.class, args);
+		SpringApplication.run(PlanwithStarterApplication.class, args);
 	}
 
 }
