@@ -1,3 +1,7 @@
-<script setup></script>
+<script setup>
+import home from "@/views/Home.vue";
+</script>
 
-<template></template>
+<template>
+    <home/>
+</template>
